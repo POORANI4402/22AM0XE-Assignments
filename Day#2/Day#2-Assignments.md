@@ -31,7 +31,7 @@
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/cee8a96b-461d-4736-8108-ad4559b08677)
 
 ***
 
@@ -41,7 +41,7 @@
 ***
 
 #### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/576b2dd8-9cf4-4d31-98fd-668677473560)
 
 ***
 
