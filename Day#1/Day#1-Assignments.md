@@ -62,6 +62,13 @@ LOGO : ![image](https://github.com/user-attachments/assets/9cbfb20e-87e5-4e99-b7
 
 Details: LinkedIn is a leading professional networking platform with over 900 million users globally. It allows individuals to create profiles showcasing their skills, experience, and education, enabling connections with other professionals. Users can search for job opportunities, share industry insights, and engage in discussions through groups and posts.
 LinkedIn also offers tools for businesses, such as recruitment solutions and marketing services, helping companies find talent and connect with potential customers. Hosted on Microsoft Azure, LinkedIn benefits from Azure’s robust cloud infrastructure, ensuring scalability, security, and efficient data management, which supports the platform's extensive features and user base.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Zoom (Hosted on AWS)
+LOGO : ![image](https://github.com/user-attachments/assets/3dd11b74-04e1-4284-8bc2-693021084347)
+
+Details: A video conferencing application that supports online meetings, webinars, and virtual collaboration.
+
 
 ***
 
