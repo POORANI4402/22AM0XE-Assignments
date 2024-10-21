@@ -57,7 +57,11 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
+LinkedIn (Hosted on Azure)
+LOGO : ![image](https://github.com/user-attachments/assets/9cbfb20e-87e5-4e99-b722-b2c645c46b8f)
+
+Details: LinkedIn is a leading professional networking platform with over 900 million users globally. It allows individuals to create profiles showcasing their skills, experience, and education, enabling connections with other professionals. Users can search for job opportunities, share industry insights, and engage in discussions through groups and posts.
+LinkedIn also offers tools for businesses, such as recruitment solutions and marketing services, helping companies find talent and connect with potential customers. Hosted on Microsoft Azure, LinkedIn benefits from Azure’s robust cloud infrastructure, ensuring scalability, security, and efficient data management, which supports the platform's extensive features and user base.
 
 ***
 
