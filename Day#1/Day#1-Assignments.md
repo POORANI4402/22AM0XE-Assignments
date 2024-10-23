@@ -74,8 +74,9 @@ Details: Snapchat, a popular multimedia messaging app, uses Google Cloud Platfor
 
 ***
 
-#### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+#### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignmen
+(https://github.com/SanthoshNC/22AM0XE-Assignments/forks?page=1) 
+![image](https://github.com/user-attachments/assets/72bf57e5-9058-48c6-945c-c2fac4b29915)
 
 ***
 
