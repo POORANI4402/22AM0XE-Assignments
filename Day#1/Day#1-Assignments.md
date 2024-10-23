@@ -82,6 +82,7 @@ Details: Snapchat, a popular multimedia messaging app, uses Google Cloud Platfor
 
 #### #6 Create a LinkedIn account with personal mail ID
 www.linkedin.com/in/poorani44 
+
 ![image](https://github.com/user-attachments/assets/91601777-6888-4828-ad56-477bae94eded)
 
 ***
