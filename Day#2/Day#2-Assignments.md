@@ -63,7 +63,10 @@
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+(https://github.com/SanthoshNC/22AM0XE-Assignments/pull/26)
+
+![image](https://github.com/user-attachments/assets/e20213db-1284-4353-9017-2acdc658f6aa)
+
 
 ***
 
