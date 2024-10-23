@@ -53,7 +53,24 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
+1. Application: LinkedIn(Hosted on Microsoft Azure)
+
+Logo:
+![image](https://github.com/user-attachments/assets/15d57c65-7cd1-4939-a7c3-2c67c9b084be)
+
+Details: LinkedIn, the world’s largest professional networking platform with over 900 million users, leverages Microsoft Azure for its cloud infrastructure. Azure helps LinkedIn manage data at scale, ensuring fast and secure networking, job postings, personalized content recommendations, and real-time messaging.
+
+2. Application: Amazon Prime Video(Hosted on AWS)
+   
+Logo: ![image](https://github.com/user-attachments/assets/9abd7888-cfc3-4618-85dd-915f84973838)
+
+Details: A popular streaming platform offering a large library of movies, TV shows, and original content across the world. It's part of Amazon's services and uses AWS infrastructure to handle large-scale streaming and storage needs.
+
+3. Application: Snapchat
+
+Logo: ![image](https://github.com/user-attachments/assets/b15528db-399e-47ef-a2d1-977308990706)
+
+Details: Snapchat, a popular multimedia messaging app, uses Google Cloud Platform (GCP) to store and process vast amounts of user-generated content like photos, videos, and messages. GCP's scalable infrastructure supports real-time interactions, including filters and lenses, while ensuring fast content delivery and reliable performance for Snapchat's millions of daily active users.
 
 ***
 
